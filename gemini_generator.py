@@ -1,0 +1,2 @@
+def generate_workout_gemini(user_input):
+    return f"Dummy Workout Plan for {user_input.goal} - Goal: {user_input.goal}, Intensity: {user_input.intensity}, Age: {user_input.age}, Weight: {user_input.weight}kg. Do 30 mins cardio, 20 mins strength training daily!"
